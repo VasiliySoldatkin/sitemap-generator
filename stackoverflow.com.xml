@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">	
+	<sitemap>
+		<loc>https://stackoverflow.com/</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/licensing</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/legal/cookie-policy</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/company/contact</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/legal/terms-of-service</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/legal/privacy-policy</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/legal</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/enterprise</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/company/press</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/salary</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/directory/developer-jobs</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/company/work-here</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/integrations/okta</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/integrations/github</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/integrations/jira</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/integrations/microsoft-teams</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/integrations/slack</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/calculate/attract-and-retain-talent</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/tour</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/create/free</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/create/free?utm_source=so-owned&amp;amp;utm_medium=side-bar&amp;amp;utm_campaign=campaign-38&amp;amp;utm_content=cta</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs?so_medium=StackOverflow&amp;amp;so_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies?so_medium=StackOverflow&amp;amp;so_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/dev-survey/start?utm_source=so-owned&amp;amp;utm_medium=announcement-banner&amp;amp;utm_campaign=dev-survey-2021</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/advertising</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/talent</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs?so_source=ProductsMenu&amp;so_medium=StackOverflow</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/company</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/use-cases/product-management</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/use-cases/customer-support</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/use-cases/data-analytics</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/use-cases/devops</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/use-cases/engineering</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-typescript?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-london?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-sql?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-stockholm?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-barcelona?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-node.js?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-ruby-on-rails?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67748671/why-onclick-is-not-shown-in-element</loc>
+		<lastmod>Sat, 29 May 2021 15:58:32 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67734730/how-can-i-convert-to-date-format-dd-mmm-yyyy-using-the-shell</loc>
+		<lastmod>Sat, 29 May 2021 12:05:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;page=425701</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;page=5</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;page=4</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;page=3</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;page=2</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;amp;pagesize=30</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;amp;pagesize=50</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16070087/ash</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=newest&amp;amp;pagesize=15</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16070079/carlo</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753290/run-length-coding-python</loc>
+		<lastmod>Sat, 29 May 2021 15:59:01 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/cassandra-2.0</loc>
+		<lastmod>Sat, 29 May 2021 15:48:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/cassandra-3.0</loc>
+		<lastmod>Sat, 29 May 2021 15:48:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753291/cassandra-support-materialized-views-with-mutable-partition-key</loc>
+		<lastmod>Sat, 29 May 2021 15:48:25 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/cassandra</loc>
+		<lastmod>Sat, 29 May 2021 15:48:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/15974340/user458</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/seaborn</loc>
+		<lastmod>Sat, 29 May 2021 15:48:24 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/heatmap</loc>
+		<lastmod>Sat, 29 May 2021 15:48:24 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13834457/valentine</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753293/how-to-build-a-heatmap</loc>
+		<lastmod>Sat, 29 May 2021 15:48:25 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/woocommerce</loc>
+		<lastmod>Sat, 29 May 2021 15:48:29 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/wordpress</loc>
+		<lastmod>Sat, 29 May 2021 15:48:29 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753295/woocommerce-add-to-cart-button-reloads-the-page</loc>
+		<lastmod>Sat, 29 May 2021 15:48:31 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/12483095/idecode</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/dart-null-safety</loc>
+		<lastmod>Sat, 29 May 2021 15:48:30 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/10346592/aerospace</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753297/use-key-in-widget-constructors-warning-each-time-i-create-a-new-widget</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/mathematical-optimization</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/vectorization</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/for-loop</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753299/how-to-vectorize-multidimensional-function-to-5d-r-array</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/9858173/barkha-rastogi</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/grafana</loc>
+		<lastmod>Sat, 29 May 2021 15:48:51 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/influxdb</loc>
+		<lastmod>Sat, 29 May 2021 15:48:51 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/jmeter</loc>
+		<lastmod>Sat, 29 May 2021 15:48:51 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753300/influxdb-is-not-showing-all-data-for-non-gui-test-jmeter-influxdb-grafana</loc>
+		<lastmod>Sat, 29 May 2021 15:48:56 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/6194298/direwolf</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/powerbi-desktop</loc>
+		<lastmod>Sat, 29 May 2021 15:49:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/dax</loc>
+		<lastmod>Sat, 29 May 2021 15:49:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/powerbi</loc>
+		<lastmod>Sat, 29 May 2021 15:49:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/115355/thomas</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753301/calculated-column-needs-to-be-created-based-on-two-existing-column-dimensions-in</loc>
+		<lastmod>Sat, 29 May 2021 15:49:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/compression</loc>
+		<lastmod>Sat, 29 May 2021 15:49:14 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/google-cloud-storage</loc>
+		<lastmod>Sat, 29 May 2021 15:49:14 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/google-cloud-platform</loc>
+		<lastmod>Sat, 29 May 2021 15:49:14 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753302/how-do-i-use-server-side-gzip-decompression-with-google-cloud-storages-go-api</loc>
+		<lastmod>Sat, 29 May 2021 15:49:19 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13411545/yassir</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/go</loc>
+		<lastmod>Sat, 29 May 2021 15:49:14 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/math</loc>
+		<lastmod>Sat, 29 May 2021 15:49:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/linear-algebra</loc>
+		<lastmod>Sat, 29 May 2021 15:49:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753303/how-to-plot-mappings-in-python</loc>
+		<lastmod>Sat, 29 May 2021 15:49:19 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16069465/jason</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753304/how-can-i-find-max-value-in-a-list</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/oop</loc>
+		<lastmod>Sat, 29 May 2021 15:49:29 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/11288051/rookiecoder</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/command-line-interface</loc>
+		<lastmod>Sat, 29 May 2021 15:49:44 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/npm</loc>
+		<lastmod>Sat, 29 May 2021 15:49:44 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16069882/j0r3d1n</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753305/difference-between-require-module-and-require</loc>
+		<lastmod>Sat, 29 May 2021 15:49:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/xaml</loc>
+		<lastmod>Sat, 29 May 2021 15:50:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/wpf</loc>
+		<lastmod>Sat, 29 May 2021 15:50:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753310/xaml-wpf-save-loaded-json-from-url-to-local-file-with-changes</loc>
+		<lastmod>Sat, 29 May 2021 15:59:44 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/1103028/john-john</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/linq</loc>
+		<lastmod>Sat, 29 May 2021 15:50:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753314/add-between-3-characters</loc>
+		<lastmod>Sat, 29 May 2021 15:56:28 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16069991/timmotoo</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/react-three-fiber</loc>
+		<lastmod>Sat, 29 May 2021 15:51:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/shadow</loc>
+		<lastmod>Sat, 29 May 2021 15:51:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753315/buffergeometry-normals-react-three-fiber</loc>
+		<lastmod>Sat, 29 May 2021 15:57:39 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13604662/soumalya-bhattacharya</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753316/load-an-image-which-is-not-in-public-folder-to-a-file-which-is-not-in-pages-fold</loc>
+		<lastmod>Sat, 29 May 2021 15:51:26 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/next.js</loc>
+		<lastmod>Sat, 29 May 2021 15:51:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/15020423/tuzi</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/redux</loc>
+		<lastmod>Sat, 29 May 2021 15:51:51 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/14612440/oatty8867</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753320/react-easy-peasy-redux-addtodo-is-not-a-function</loc>
+		<lastmod>Sat, 29 May 2021 15:59:04 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sockets</loc>
+		<lastmod>Sat, 29 May 2021 15:51:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753321/error-unicodedecodeerror-utf-8-codec-cant-decode-byte-0xff-in-position-0-in</loc>
+		<lastmod>Sat, 29 May 2021 15:56:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/3938789/bangbang</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/flutter-listview</loc>
+		<lastmod>Sat, 29 May 2021 15:52:25 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753326/cannot-hit-test-a-render-box-with-no-size-in-listview-builder</loc>
+		<lastmod>Sat, 29 May 2021 15:58:53 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/4480164/cyb3rz</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753329/vscode-prettier-on-save-on-any-projects</loc>
+		<lastmod>Sat, 29 May 2021 15:53:07 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/visual-studio-code</loc>
+		<lastmod>Sat, 29 May 2021 15:53:03 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/8386633/jock-jock</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/xamarin</loc>
+		<lastmod>Sat, 29 May 2021 15:53:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/15836920/general-pleather</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753331/different-color-for-different-application-xamarin</loc>
+		<lastmod>Sat, 29 May 2021 15:53:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/class</loc>
+		<lastmod>Sat, 29 May 2021 15:53:28 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753332/received-error-when-copying-example-code-to-eclipse-java</loc>
+		<lastmod>Sat, 29 May 2021 15:58:53 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/9744259/dayne</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/console</loc>
+		<lastmod>Sat, 29 May 2021 15:53:57 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/terminal</loc>
+		<lastmod>Sat, 29 May 2021 15:53:57 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/cmd</loc>
+		<lastmod>Sat, 29 May 2021 15:53:57 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753335/clearing-console-terminal-in-r-in-windows-command-prompt</loc>
+		<lastmod>Sat, 29 May 2021 15:54:06 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13341831/abracatabra</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753336/cannot-add-string-number-to-string-number-types-in-typescript</loc>
+		<lastmod>Sat, 29 May 2021 15:58:14 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/typescript-typings</loc>
+		<lastmod>Sat, 29 May 2021 15:53:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/8570469/m-shahraini</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/xamarin.forms</loc>
+		<lastmod>Sat, 29 May 2021 15:54:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sms</loc>
+		<lastmod>Sat, 29 May 2021 15:54:18 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753337/delete-sms-after-sending-in-xamarin-forms</loc>
+		<lastmod>Sat, 29 May 2021 15:57:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/15481353/curious</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/firebaseui</loc>
+		<lastmod>Sat, 29 May 2021 15:54:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/firebase-authentication</loc>
+		<lastmod>Sat, 29 May 2021 15:54:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/firebase</loc>
+		<lastmod>Sat, 29 May 2021 15:54:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753339/how-do-i-use-createuserwithemailandpassword-with-styledfirebaseauth</loc>
+		<lastmod>Sat, 29 May 2021 15:55:03 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/snowpack</loc>
+		<lastmod>Sat, 29 May 2021 15:54:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13090130/vaasu-dhand</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/14356265/niklas</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753340/configure-snowpack-with-react-boilerplate</loc>
+		<lastmod>Sat, 29 May 2021 15:59:47 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/state</loc>
+		<lastmod>Sat, 29 May 2021 15:55:06 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/observable</loc>
+		<lastmod>Sat, 29 May 2021 15:55:06 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/responsive-design</loc>
+		<lastmod>Sat, 29 May 2021 15:55:06 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/service</loc>
+		<lastmod>Sat, 29 May 2021 15:55:06 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753341/angular-component-rerenders-but-it-shouldnt</loc>
+		<lastmod>Sat, 29 May 2021 15:55:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/npm-scripts</loc>
+		<lastmod>Sat, 29 May 2021 15:55:07 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/package.json</loc>
+		<lastmod>Sat, 29 May 2021 15:55:07 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753342/fig-autocomplete-npm-execpath-is-not-recognized</loc>
+		<lastmod>Sat, 29 May 2021 15:56:35 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/13688615/ashutosh-prajapati</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/dependencies</loc>
+		<lastmod>Sat, 29 May 2021 15:55:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/noclassdeffounderror</loc>
+		<lastmod>Sat, 29 May 2021 15:55:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753343/how-to-fix-noclassdeffounderror-for-a-package-inside-a-package</loc>
+		<lastmod>Sat, 29 May 2021 15:55:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/package</loc>
+		<lastmod>Sat, 29 May 2021 15:55:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/2548618/santiago-cuartas-arango</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/babeljs</loc>
+		<lastmod>Sat, 29 May 2021 15:55:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/vuejs2</loc>
+		<lastmod>Sat, 29 May 2021 15:55:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753346/how-to-change-the-path-structure-from-built-vue-project</loc>
+		<lastmod>Sat, 29 May 2021 15:56:35 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/vue.js</loc>
+		<lastmod>Sat, 29 May 2021 15:55:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/15923316/jamie-torio</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/accordion</loc>
+		<lastmod>Sat, 29 May 2021 15:55:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/pagination</loc>
+		<lastmod>Sat, 29 May 2021 15:55:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/12505372/hashtag-assist</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753347/pagination-for-nested-accordion</loc>
+		<lastmod>Sat, 29 May 2021 15:59:44 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/syncfusion</loc>
+		<lastmod>Sat, 29 May 2021 15:56:04 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753348/ejs-multiselect-push-data</loc>
+		<lastmod>Sat, 29 May 2021 15:56:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/1134261/keron-maurice</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angular11</loc>
+		<lastmod>Sat, 29 May 2021 15:56:12 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/submit</loc>
+		<lastmod>Sat, 29 May 2021 15:56:12 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/typescript</loc>
+		<lastmod>Sat, 29 May 2021 15:56:12 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/forms</loc>
+		<lastmod>Sat, 29 May 2021 15:56:12 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/9811964/pparker</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753350/form-submit-is-not-a-function-angular-11</loc>
+		<lastmod>Sat, 29 May 2021 15:56:22 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/fonts</loc>
+		<lastmod>Sat, 29 May 2021 15:56:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/colors</loc>
+		<lastmod>Sat, 29 May 2021 15:56:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/matplotlib</loc>
+		<lastmod>Sat, 29 May 2021 15:56:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/plot</loc>
+		<lastmod>Sat, 29 May 2021 15:56:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753351/change-color-of-names-of-bars-in-plot-made-with-matplotlib</loc>
+		<lastmod>Sat, 29 May 2021 15:56:22 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16044657/mago-de-pis</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/coin-change</loc>
+		<lastmod>Sat, 29 May 2021 15:56:17 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/combinations</loc>
+		<lastmod>Sat, 29 May 2021 15:56:17 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/11026832/newbie</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753352/finding-the-best-combination-of-numbers-to-reach-a-given-sum-in-r</loc>
+		<lastmod>Sat, 29 May 2021 15:56:22 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/mysqli</loc>
+		<lastmod>Sat, 29 May 2021 15:56:26 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/post</loc>
+		<lastmod>Sat, 29 May 2021 15:56:26 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753353/php-post-display-blank-on-my-conditional-page</loc>
+		<lastmod>Sat, 29 May 2021 15:57:48 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/12273452/techgig</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/socket.io</loc>
+		<lastmod>Sat, 29 May 2021 15:56:43 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753356/react-function-component-is-updating-the-latest-data-even-after-rendering-the-co</loc>
+		<lastmod>Sat, 29 May 2021 15:56:46 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/14124155/daros911</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/windows</loc>
+		<lastmod>Sat, 29 May 2021 15:56:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/visual-studio</loc>
+		<lastmod>Sat, 29 May 2021 15:56:54 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753357/implementing-a-simple-win-app-diaplaying-an-image</loc>
+		<lastmod>Sat, 29 May 2021 15:56:58 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/2509054/ownurd</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sequelize.js</loc>
+		<lastmod>Sat, 29 May 2021 15:57:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753358/webpack-typeerror-this-lib-createconnection-is-not-a-function</loc>
+		<lastmod>Sat, 29 May 2021 15:57:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/webpack</loc>
+		<lastmod>Sat, 29 May 2021 15:57:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/12539935/ali-aref</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/github</loc>
+		<lastmod>Sat, 29 May 2021 15:57:29 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/readme</loc>
+		<lastmod>Sat, 29 May 2021 15:57:29 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/14961922/erik-bodg</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753359/indent-code-correctly-in-github-list-item-in-readme-md</loc>
+		<lastmod>Sat, 29 May 2021 15:57:33 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/remote-access</loc>
+		<lastmod>Sat, 29 May 2021 15:57:33 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753360/make-your-ip-open-for-remote-access</loc>
+		<lastmod>Sat, 29 May 2021 15:57:43 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/6579265/george-z</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/hikaricp</loc>
+		<lastmod>Sat, 29 May 2021 15:57:37 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/h2</loc>
+		<lastmod>Sat, 29 May 2021 15:57:37 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/jdbc</loc>
+		<lastmod>Sat, 29 May 2021 15:57:37 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/hibernate</loc>
+		<lastmod>Sat, 29 May 2021 15:57:37 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753361/h2-with-hibernate-fails-to-create-file-when-using-cipher-aes</loc>
+		<lastmod>Sat, 29 May 2021 15:59:56 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/10669848/maryam-mehboob</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/bounding-box</loc>
+		<lastmod>Sat, 29 May 2021 15:58:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/object-detection-api</loc>
+		<lastmod>Sat, 29 May 2021 15:58:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753367/save-bounding-boxes-as-an-images-in-separate-folder-after-model-training</loc>
+		<lastmod>Sat, 29 May 2021 15:58:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/tensorflow</loc>
+		<lastmod>Sat, 29 May 2021 15:58:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/plugins</loc>
+		<lastmod>Sat, 29 May 2021 15:58:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753370/deprecation-notice-obsolete-place-ids</loc>
+		<lastmod>Sat, 29 May 2021 15:58:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16070159/yaneme</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/classification</loc>
+		<lastmod>Sat, 29 May 2021 15:58:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/deep-learning</loc>
+		<lastmod>Sat, 29 May 2021 15:58:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/machine-learning</loc>
+		<lastmod>Sat, 29 May 2021 15:58:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753371/how-can-i-leverage-my-knowledge-in-sql-to-ai</loc>
+		<lastmod>Sat, 29 May 2021 15:58:22 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/11681834/sai-satwik-kuppili</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753374/elastic-search-whitespace-analyser-and-customer-analyser-with-whitespace-tokenis</loc>
+		<lastmod>Sat, 29 May 2021 15:59:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/elasticsearch</loc>
+		<lastmod>Sat, 29 May 2021 15:58:57 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/3232091/763</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/try-catch</loc>
+		<lastmod>Sat, 29 May 2021 15:59:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/dart</loc>
+		<lastmod>Sat, 29 May 2021 15:59:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753376/flutter-unable-catch-exception-using-trycatch</loc>
+		<lastmod>Sat, 29 May 2021 15:59:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16070139/md-iftekhar-hossain</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/flutter</loc>
+		<lastmod>Sat, 29 May 2021 15:59:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sequence</loc>
+		<lastmod>Sat, 29 May 2021 15:59:13 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753377/design-a-sequence-recognizer</loc>
+		<lastmod>Sat, 29 May 2021 15:59:20 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/users/16070133/ds-j</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/artificial-intelligence</loc>
+		<lastmod>Sat, 29 May 2021 15:59:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/correlation</loc>
+		<lastmod>Sat, 29 May 2021 15:59:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/67753378/correlation-matrix-with-continous-and-dummy-variables</loc>
+		<lastmod>Sat, 29 May 2021 15:59:20 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Votes</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Frequent</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Unanswered</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Bounties</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Newest</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions?tab=Active</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/advertising/policies</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/advertising/solutions</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/advertising/audience</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/review-suspensions</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/review-close</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/review-reopen</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/review-help-and-improvement</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/reviews-intro</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/reporting-companies</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/what-is-recruiter-spam</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/what-is-a-fake-job-listing</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/why-use-jobs</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/what-is-jobs</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/referencing</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/answer-bans</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/accepted-answer</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/deleted-answers</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/locked-posts</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/how-to-answer</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/serial-voting-reversed</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/whats-reputation</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/why-vote</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/site-moderators</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/formatting</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/browser-support</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/interesting-topics</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/behavior</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/conduct</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/question-bans</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/how-to-ask</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/closed-questions</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/on-topic</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/help/dont-ask</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags?page=1801&amp;tab=popular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags?page=5&amp;tab=popular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags?page=4&amp;tab=popular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags?page=3&amp;tab=popular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/pandas?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags?page=2&amp;tab=popular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/pandas?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/linux?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/linux?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/pandas</loc>
+		<lastmod>Sat, 29 May 2021 15:48:24 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ajax?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/linux</loc>
+		<lastmod>Sat, 29 May 2021 15:34:00 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ajax?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ajax</loc>
+		<lastmod>Sat, 29 May 2021 15:35:07 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/iphone?sort=newest&amp;amp;days=30</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/iphone?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby</loc>
+		<lastmod>Sat, 29 May 2021 14:08:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/regex?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/regex?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/iphone</loc>
+		<lastmod>Fri, 28 May 2021 20:32:24 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/excel?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/excel?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/regex</loc>
+		<lastmod>Sat, 29 May 2021 15:32:16 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angular?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/excel</loc>
+		<lastmod>Sat, 29 May 2021 15:32:43 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angularjs?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angularjs?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angular</loc>
+		<lastmod>Sat, 29 May 2021 15:56:12 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/django?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/django?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/angularjs</loc>
+		<lastmod>Sat, 29 May 2021 15:11:27 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python-3.x?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python-3.x?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/django</loc>
+		<lastmod>Sat, 29 May 2021 15:47:50 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python-3.x</loc>
+		<lastmod>Sat, 29 May 2021 15:46:20 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/objective-c?sort=newest&amp;amp;days=30</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/objective-c?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/swift?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/swift?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/objective-c</loc>
+		<lastmod>Sat, 29 May 2021 07:15:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql-server?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql-server?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/swift</loc>
+		<lastmod>Sat, 29 May 2021 15:04:35 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/reactjs?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/reactjs?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql-server</loc>
+		<lastmod>Sat, 29 May 2021 15:46:53 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/.net?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/reactjs</loc>
+		<lastmod>Sat, 29 May 2021 15:59:56 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/.net?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/json?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/json?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/.net</loc>
+		<lastmod>Sat, 29 May 2021 15:40:10 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby-on-rails?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby-on-rails?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/json</loc>
+		<lastmod>Sat, 29 May 2021 15:50:21 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ruby-on-rails</loc>
+		<lastmod>Sat, 29 May 2021 14:08:11 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/asp.net?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c</loc>
+		<lastmod>Sat, 29 May 2021 15:04:03 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/asp.net?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/arrays?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/arrays?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/asp.net</loc>
+		<lastmod>Sat, 29 May 2021 15:23:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/node.js?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/arrays</loc>
+		<lastmod>Sat, 29 May 2021 15:48:36 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/node.js?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/r?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/r?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/node.js</loc>
+		<lastmod>Sat, 29 May 2021 15:57:08 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/r</loc>
+		<lastmod>Sat, 29 May 2021 15:56:17 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/mysql?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/mysql?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/sql</loc>
+		<lastmod>Sat, 29 May 2021 15:58:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ios?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/mysql</loc>
+		<lastmod>Sat, 29 May 2021 15:00:05 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ios?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/css?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/css?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/ios</loc>
+		<lastmod>Sat, 29 May 2021 15:47:52 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/css</loc>
+		<lastmod>Sat, 29 May 2021 15:46:41 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/jquery?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/jquery?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/html?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/jquery</loc>
+		<lastmod>Sat, 29 May 2021 15:55:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/html?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/android?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/html</loc>
+		<lastmod>Sat, 29 May 2021 15:55:55 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/android?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/android</loc>
+		<lastmod>Sat, 29 May 2021 15:59:32 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/php?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c%23?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c%23?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/php</loc>
+		<lastmod>Sat, 29 May 2021 15:56:26 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/c%23</loc>
+		<lastmod>Sat, 29 May 2021 15:53:09 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/java?sort=newest&amp;amp;days=7</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/java?sort=newest&amp;amp;days=1</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/python</loc>
+		<lastmod>Sat, 29 May 2021 15:59:15 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/questions/tagged/java</loc>
+		<lastmod>Sat, 29 May 2021 15:59:32 GMT</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/tags/synonyms</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/alpiq?c=MWmmSCJh6CgpgDEA&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/cipher-tech-solutions-inc?c=4OhVpDyWPrknQjFS&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-c%23</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/user-research-international?c=LjLcvSjS9VYQw8dW&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-vanillajs</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/tradingview?c=OwUCglPMdhkgXjCo&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-hadoop</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-apache-spark</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/amobee-inc?c=OuXJZzlXZag5t624&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/old-mission-capital?c=2pJdZfJ159AgvdDi&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-hibernate</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-spring</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/www-oreillyauto-com-careers?c=9KXCbPZGeLQwOnVC&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-angular</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-.net-core</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/hummingbot?c=NQZNrxuRjPnhYBws&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/shift-digital?c=4ogeTNxMACnpubU4&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-mongo</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-web</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/companies/aluna?c=OiSjvVaKaReWfl04&amp;amp;so_medium=StackOverflow&amp;amp;amp%3Bso_source=SiteNav</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-rust?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-paris?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-vienna?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-z%C3%BCrich?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-hamburg?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-postgresql?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-amazon-web-services?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/create/free?isLogin=true</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/resources/teams-for-data-requests</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/resources/what-teams-could-look-like-in-your-company</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/resources/see-articles-in-action</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/teams/create/business</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-reactjs?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-python?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-java?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-django?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-using-go?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/remote-developer-jobs?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-toronto?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-singapore?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-amsterdam?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-oslo?f=rl</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://stackoverflow.com/jobs/developer-jobs-in-new-york?f=rl</loc>
+	</sitemap>
+</sitemapindex>

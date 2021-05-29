@@ -6,39 +6,53 @@ from urllib.parse import urlsplit, urlunsplit
 import re
 import time
 from xmltodict import unparse
-import logging
+from requests import get
 
 class SitemapGenerator:
-    def __init__(self, url, parse_robots=False, max_urls=5_000):
-        self.num_urls = 0
+    def __init__(self, domain='',
+                 parse_robots=False,
+                 max_urls=100_000_000_000_000_000,
+                 user_agent='*',
+                 excluded={},
+                 workers=30):
         self.num_crawled = 0
+        self.num_urls = 0
+        self.count_all = 0
         self.count_xmls = 0
         self.max_urls = max_urls
         self.parse_robots = parse_robots
+        self.workers = workers
+        self.excluded = set(excluded)
         self.not_parseable = (
             ".epub", ".mobi", ".docx", ".doc", ".opf", ".7z", ".ibooks", ".cbr", ".avi", ".mkv", ".mp4", ".jpg",
             ".jpeg",
             ".png", ".gif", ".pdf", ".iso", ".rar", ".tar", ".tgz", ".zip", ".dmg", ".exe")
 
-        self.url = url
-        self.url_parsed = urlparse(url)
+        self.url = domain
+        try:
+            get(self.url)
+        except Exception as e:
+            print(e)
+            exit()
+        self.url_parsed = urlparse(domain)
         if not self.url_parsed.path.endswith('/'):
-            self.url = url + '/'
+            self.url = domain + '/'
         self.urls_to_crawl = []
         self.crawled_or_crawling = set()
         self.for_sitemap = []
         self.url_info = {}
+        self.excluded_response_error = set()
 
-        self.url_parsed = urlparse(url)
+        self.url_parsed = urlparse(domain)
         self.target_domain = self.url_parsed.netloc
         self.target_scheme = self.url_parsed.scheme
         self.domain = self.url_parsed.scheme + '://' + self.target_domain
-        self.excluded = set()
+
 
         if self.parse_robots:
             self.robots()
         self.session = None
-        self.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'
+        self.user_agent = user_agent
         self.t = 0
 
     async def gather_with_concurrency(self, n, *tasks):
@@ -53,58 +67,65 @@ class SitemapGenerator:
         self.t = time.time()
         loop = asyncio.get_event_loop()
         loop.run_until_complete(self.BFS())
-        print(self.num_urls, time.time() - self.t)
+        print(f'Время работы: {time.time() - self.t}, '
+              f'количество ссылок: {len(self.for_sitemap)}\n'
+              f'Общее число обработанных ссылок: {self.count_all}')
 
     def gen_of_urls(self):
         while len(self.urls_to_crawl) > 0:
             g = self.urls_to_crawl.pop()
             self.crawled_or_crawling.add(g)
-            self.for_sitemap.append(g)
             self.num_crawled += 1
             self.url_info[g] = {'loc': g}
+            if self.num_crawled > self.max_urls:
+                return
             yield g
 
     async def BFS(self):
         self.urls_to_crawl.append(self.url)
 
-        connector = aiohttp.TCPConnector(limit=30)
-        timeout_seconds = 10
+        connector = aiohttp.TCPConnector(limit=self.workers)
+        timeout_seconds = 5
         session_timeout = aiohttp.ClientTimeout(total=None, sock_connect=timeout_seconds, sock_read=timeout_seconds)
         self.session = aiohttp.ClientSession(connector=connector,
                                              trust_env=True,
                                              timeout=session_timeout,
                                              cookie_jar=aiohttp.CookieJar())
-
-        while len(self.urls_to_crawl) > 0:
-            tasks = [asyncio.create_task(self.crawl(url)) for url in self.gen_of_urls()]
-            await self.gather_with_concurrency(30, *tasks)
-        await self.session.close()
+        async with self.session:
+            while len(self.urls_to_crawl) > 0:
+                urls = self.gen_of_urls()
+                self.num_urls = 0
+                if self.num_crawled > self.max_urls:
+                    return
+                tasks = [asyncio.create_task(self.crawl(url)) for url in urls]
+                await self.gather_with_concurrency(self.workers, *tasks)
 
     async def crawl(self, current_url):
-        if self.num_crawled > self.max_urls:
-            return
-        linkregex = re.compile(b'(?i)href=["\']?([^\s"\'<>]+)')
+        linkregex = re.compile(b'<a [^>]*href=[\'|"](.*?)[\'"][^>]*?>')
         url = urlparse(current_url)
         if not url.path.endswith(self.not_parseable):
+            if self.in_excluded_link(current_url):
+                return
             try:
                 response = await self.session.get(current_url,
                                                   headers={'User-Agent': self.user_agent},
                                                   ssl=False,
                                                   allow_redirects=False)
             except Exception as e:
-                print(current_url, e)
                 self.excluded.add(current_url)
                 return
             else:
                 if 200 <= response.status <= 307:
+
                     try:
                         html = await response.read()
                     except Exception as e:
-                        print(current_url, e)
                         return
                 else:
-                    logging.exception(f'HTTP Status code {response.status}')
                     return
+                if str(response.url) != str(current_url):
+                    return
+                self.for_sitemap.append(current_url)
                 self.url_info[current_url]['loc'] = current_url
                 try:
                     self.url_info[current_url]['lastmod'] = response.headers['Last-Modified']
@@ -112,6 +133,7 @@ class SitemapGenerator:
                     pass
                 links = linkregex.findall(html)
                 for link in links:
+                    self.count_all += 1
                     link = link.decode("utf-8", errors="ignore")
                     if link.startswith('/'):
                         link = url.scheme + '://' + url[1] + link
@@ -138,17 +160,17 @@ class SitemapGenerator:
                         continue
                     if "javascript" in link:
                         continue
+                    if link in self.excluded:
+                        continue
+                    if self.in_excluded_link(link):
+                        continue
                     if self.parse_robots:
-                        if link in self.excluded:
-                            continue
-                        if self.in_excluded_link(link):
-                            continue
                         if not self.can_fetch_robots(link):
                             continue
                     self.urls_to_crawl.append(link)
                     self.num_urls += 1
-                    if self.num_urls % 100 == 0:
-                        print(time.time() - self.t, self.num_urls)
+                    if self.num_urls + self.num_crawled > self.max_urls:
+                        return
 
     def clean_link(self, link):
         parts = list(urlsplit(link))
@@ -185,9 +207,7 @@ class SitemapGenerator:
         with open(file_name, 'w') as f:
             f.write(xml)
             self.count_xmls += 1
-
     def write_sitemap_xml(self):
-        print(len(self.for_sitemap))
         xml = '<?xml version=\"1.0\" encoding=\"utf-8\"?>\n'
         sitemapindex_open_tag = '<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">'
         xml += sitemapindex_open_tag
@@ -208,13 +228,6 @@ class SitemapGenerator:
                 sitemap_locs = ''
         if urls_in_xml % 50000 != 0:
             self.sitemap_end(sitemap_locs, xml)
-        """sitemap_locs = self.tab_string(sitemap_locs)
-        sitemapindex_close_tag = '</sitemapindex>'
-        xml += sitemap_locs
-        xml += sitemapindex_close_tag
-        count_xmls += 1
-        with open(f'{self.target_domain}{count_xmls}.xml', 'w') as f:
-            f.write(xml)"""
 
 
     def robots(self):
@@ -238,12 +251,3 @@ class SitemapGenerator:
                 return True
         return False
 
-
-if __name__ == '__main__':
-    import sys
-    if sys.version_info[0] == 3 and sys.version_info[1] >= 8 and sys.platform.startswith('win'):
-        policy = asyncio.WindowsSelectorEventLoopPolicy()
-        asyncio.set_event_loop_policy(policy)
-    c = SitemapGenerator('https://vk.com', parse_robots=True)
-    c.run()
-    c.write_sitemap_xml()
