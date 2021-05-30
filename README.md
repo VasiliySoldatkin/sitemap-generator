@@ -2,6 +2,8 @@
 ## Основные файлы
 __main.py__ - запуск скрипта  
 __generator.py__ - модуль генератора карты сайта
+## Установка зависимостей
+`>>> pip install -r requirements.txt`
 ## Запуск скрипта
 `>>> python main.py --domain DOMAIN [--parse_robots] [--max_urls MAX_URLS]` <br/> `[--user_agent USER_AGENT] [--workers WORKERS] [--excluded ...]`
 ## Описание устанавливаемых параметров
