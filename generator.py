@@ -222,7 +222,6 @@ class SitemapGenerator:
             urls_in_xml += 1
             if urls_in_xml % 50000 == 0:
                 self.sitemap_end(sitemap_locs, xml)
-                print(count_xmls)
                 xml = '<?xml version=\"1.0\" encoding=\"utf-8\"?>\n'
                 xml += sitemapindex_open_tag
                 sitemap_locs = ''
